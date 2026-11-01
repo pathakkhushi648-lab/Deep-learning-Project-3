@@ -1,9 +1,6 @@
 
 # Deep Learning PR 3 – Computer Vision
 
-**Institute:** Red & White Skill Education  
-**Subject:** Deep Learning  
-**Project:** PR 3  
 **Topics:** Morphological Operations, Bitwise Operations, Image Histograms, YuNet Face Detection, YOLO Object Detection
 
 ## 1. Project Overview
